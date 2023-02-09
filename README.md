@@ -19,7 +19,7 @@ The dataset had 294478 rows each representing a user interaction session/ Exposu
 - *group* - The group the user was assigned to for that exposure {control, treatment)
 - *landing_page* - The web version each user was exposed to
 - *converted* - Whether the user actually made a purchase or not, after the exposure {0:not converted, 1:converted}
-The two sub-sample groups are:
+**The two sub-sample groups are**:
 - Control: Users who got the old web page
 - Treatment: Users who got the new web page
 The metric we want to track:
