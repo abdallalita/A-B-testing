@@ -27,7 +27,7 @@ The dataset had 294478 rows each representing a user interaction session/ Exposu
 I opted for The Bayesian Approach
 ### Conclusion
 Running the entire experiment for 4 weeks, I found out that the **Purchase Conversion Rate** for the Control group was always higher than that for the Treatment group.
-The confidence level kept on increasing which each new experiment data hence we become more confident that the Control Purchase Conversion rate is greater than that for the treatment group.
+The confidence level kept on increasing with each new experiment data hence we become more confident that the Control Purchase Conversion rate is greater than that for the treatment group.
 Also the variances of both the Control Posterior and the Treatment Posterior distributions reduces from the previous week results. This means that the distributions are getting narrower and more distinct hence making it easier to even quantify small differences.
 Overall since the Purchase Conversion Rate of the Control group (Users who received the old web page) is **always greater** than that for the Treatment group (Users who got the new web page), it would be more effective for the E-commerce to keep using the old web page rather than introducing the new web page.
 The new web page would not improve the Purchase Conversion Rate by any chance.
