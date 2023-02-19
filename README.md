@@ -11,7 +11,7 @@ More about the two methods can be found here: [website](https://www.redjournal.o
 ---
 ### Overview
 The dataset is for a certain E-commerce company that has developed a new web page in order to try and increase the number of users who "convert," meaning the
-number of users who decide to make a product purchase. I aim this to assist the company understand if they should implement this new page or keep using the old page,
+number of users who decide to make a product purchase. I aim to assist the company understand if they should implement this new page or keep using the old page,
 so as to improve or increase their [Purchase Conversion rate](https://www.hotjar.com/blog/website-conversion/).
 The dataset had 294478 rows each representing a user interaction session/ Exposure, as well as five columns:
 - *user_id* - The user ID of each exposure
